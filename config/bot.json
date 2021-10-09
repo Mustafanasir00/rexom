@@ -1,14 +1,14 @@
 {
     "activity": {
-        "name": "<The Bot Activity Name>",
-        "type": "<The Bot Activity Type>"
+        "name": "Ghelp",
+        "type": "PLAYING"
     },
-    "status": "<The Bot Status>",
+    "status": "dnd",
 
     "domain": "<The Bot Website Domain>",
     "clientID": "<The Bot Id>",
     "clientSECRET": "<The Bot Secret>",
 
-    "mainPrefix": "<The Bot Prefix>",
-    "mainLang": "<The Bot Lang, only: ['ar', 'en']>"
+    "mainPrefix": "G",
+    "mainLang": "ar"
 }
